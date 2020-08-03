@@ -25,5 +25,3 @@ Below are the location details
 * log - src/main/resources/logback.xml
 * H2 DataBase URL: http://localhost:8080/testdb
 * data.sql - Defined queries to have an immediate data on H2 DB startup 
-
-Note: I did not create an API seperately to register as a session presenter. I have designed in such a way that we can make use of the first or second API to register a presenter 
